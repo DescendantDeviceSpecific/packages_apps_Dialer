@@ -102,7 +102,7 @@
         android:layout_below="@id/out_average"
         android:layout_marginTop="@dimen/ec_divider_top_bottom_margin"
         android:layout_marginBottom="@dimen/ec_divider_top_bottom_margin"
-        android:background="#12000000" />
+        android:background="@*android:color/accent_device_default_700" />
 
       <TextView
         android:id="@+id/call_detail_action_copy"

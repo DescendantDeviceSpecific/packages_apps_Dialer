@@ -40,7 +40,7 @@
       android:layout_centerVertical="true"
       android:layout_marginStart="8dp"
       android:minHeight="48dp"
-      android:background="@null"
+      android:background="@color/setting_background_color"
       android:imeOptions="flagNoExtractUi"
       android:inputType="textFilter"
       android:maxLines="1"

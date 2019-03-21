@@ -233,6 +233,6 @@ public class CallRecorderService extends Service {
   }
 
   public static boolean isEnabled(Context context) {
-    return context.getResources().getBoolean(R.bool.call_recording_enabled);
+    return true; 
   }
 }
